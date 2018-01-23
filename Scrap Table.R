@@ -3,7 +3,6 @@
 #Use below R code you can scrap table content from any website
 
 #install rvest package
-install.packages("rvest")
 library(rvest)
 
 #read web content using read_html
